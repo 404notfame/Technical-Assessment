@@ -1,4 +1,4 @@
-# BANK LIBRARY SYSTEM
+# LIBRARY SYSTEM
 
 ### Configure database environment with Dockerfile
 
